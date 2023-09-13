@@ -86,6 +86,7 @@ const SubmitButton = styled.button`
 const BackgroundImage = styled.img`
   max-width: 100%;
   height: auto;
+  padding-right:40px;
 `;
 
 const Formulir = () => {

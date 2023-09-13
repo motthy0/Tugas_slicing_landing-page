@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
+
 const FeaturesSection = styled.section`
   margin-top: 70px;
   background-color: #f8f8f8;

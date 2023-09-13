@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import styled, { keyframes } from 'styled-components';
 
+
 const totalImages = 12;
 const imageWidth = 280; 
 const imageHeight = 110;
